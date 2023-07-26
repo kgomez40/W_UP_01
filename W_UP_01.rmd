@@ -60,7 +60,7 @@ The boxplot shows that the skill position on average does more pushups than the 
 favstats(pushups~position,data=mydata)
 ```
 
-
+This shows that the average mean for line position is 17 and the average mean for the skill position is 50. We have found that the difference is means between the positions is about 33 pushups. 
 
 ## Inferential Results
 
@@ -69,6 +69,8 @@ favstats(pushups~position,data=mydata)
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
+
+The t-test shows that the p-value is 0.000009421. The p-value is small so we reject the null hypothesis. The difference is a number between 44 and 20; the skill players do anywhere between 20-25 more pushups in 2 minutes than line players.
 
 
 # Discussion and Conclusion
