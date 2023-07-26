@@ -77,3 +77,5 @@ The t-test shows that the p-value is 0.000009421. The p-value is small so we rej
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The purpose of this study was to determine whether there is a statistically significant difference between the average number of of pushups performed by line players and skill players (who does more pushups on average). We conducted several tests that all showed a clear difference between the two positions as well as a very small p-value of 0.000009421. Based on the p-value we reject the null hypothesis ($H_0) because there is a difference between the average number of pushups performed by line and skill positions. The results imply that the Skill players can perform a substantially higher number of pushups than the line players.
+
